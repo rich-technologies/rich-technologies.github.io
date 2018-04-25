@@ -1,0 +1,131 @@
+
+asd
+<wl>
+<a href="product.php?cat=wl&p=1"><img src="images/WLI1.gif"></a>
+<a href="product.php?cat=wl&p=2"><img src="images/WLI2.gif"></a>
+<a href="product.php?cat=wl&p=3"><img src="images/WLI3.gif"></a>
+<a href="product.php?cat=wl&p=4"><img src="images/WLI4.gif"></a>
+</wl>
+<saw>
+<a href="product.php?cat=saw&p=1"><img src="images/WLC4.gif"></a>
+<a href="product.php?cat=saw&p=2"><img src="images/WLC2.gif"></a>
+<a href="product.php?cat=saw&p=3"><img src="images/WLC3.gif"></a>
+</saw>
+<aw>
+<a href="product.php?cat=aw&p=1"><img src="images/WLC1.gif"></a>
+<a href="product.php?cat=aw&p=2"><img src="images/WLC10.gif"></a>
+<a href="product.php?cat=aw&p=3"><img src="images/WLC11.gif"></a>
+<a href="product.php?cat=aw&p=4"><img src="images/WLC5.gif"></a>
+<a href="product.php?cat=aw&p=5"><img src="images/WLC8.gif"></a>
+<a href="product.php?cat=aw&p=6"><img src="images/WLC9.gif"></a>
+<a href="product.php?cat=aw&p=7"><img src="images/WLC6.gif"></a>
+<a href="product.php?cat=aw&p=8"><img src="images/WLC7.gif"></a>
+<a href="product.php?cat=aw&p=9"><img src="images/WLC12.gif"></a>
+<a href="product.php?cat=aw&p=10"><img src="images/WLC13.gif"></a>
+<a href="product.php?cat=aw&p=11"><img src="images/WLC14.gif"></a>
+</aw>
+<wl1>
+<img src="images/WLI1.gif" class="product">
+<p>
+	It is the water level indicator, which shows the level of water in the tank through out the day, provided there should be uninterrupted electricity. When the tank is filled up to 1/4" level the lower most LED glows up. Similarly when the tank gets filled up to half level i.e., approximately half of the tank's water storage capacity, the 2nd LED from bottom at 1/2 level lights up. Similarly 3/4 and full LED will glow along with the continuous alarm sound when when tank is full.
+It is the water level indicator, with four level indication and alarm at tank full to prevent overflow of water from the tank.
+</p>
+</wl1>
+<wl2>
+<img src="images/WLI2.gif" class="product">
+<p>
+	This is the water level indicator with four level indications having double alarm facility i.e. alarm at tank full as well as tank empty ( when water level goes down slightly below the 1/2 level of tank's capacity). So in both the cases whether the tank is filled up or is getting empty alarm sound is heard . When alarm switch is in "OFF" position it gives alarm for tank empty and when it  is "ON" position it blows for tank full to prevent overflow.
+</p>
+</wl2>
+<wl3>
+<img src="images/WLI3.gif" class="product">
+<p>
+	This is the water level indicator with four level indications having double alarm facility i.e. alarm at tank full as well as tank empty ( when water level goes down slightly below the 1/2 level of tank's capacity). So in both the cases whether the tank is filled up or is getting empty alarm sound is heard . When alarm switch is in "OFF" position it gives alarm for tank empty and when it  is "ON" position it blows for tank full to prevent overflow.There is WATER ON indication, which glows when water is being filled up into the tank and will immediately stop glowing as soon as water supply cut off with an audio alarm
+</p>
+</wl3>
+<wl4>
+<img src="images/WLI4.gif" class="product">
+<p>
+	This is the water level indicator with four level indications having double Hooter facility i.e. Hooter at tank full as well as tank empty ( when water level goes down slightly below the 1/2 level of tank's capacity). So in both the cases whether the tank is filled up or is getting empty Hooter sound is heard . When Hooter switch is in "OFF" position it gives Hooter for tank empty and when it  is "ON" position it blows for tank full to prevent overflow.
+</p>
+</wl4>
+<saw1>
+<img src="images/WLC4.gif" class="product">
+<p>
+	This Semi-Automatic system is installed with on-line and Jet. While motor is running and the water is not falling into the tank the system will switch off the motor/pump automatically with in two minutes giving an alarm sound for dry run which also switches of automatically within twenty seconds leaving dry run indication "ON".
+</p>
+</saw1>
+<saw2>
+<img src="images/WLC3.gif" class="product">
+<p>
+	This system is used to control the Submersible pump. In case the motor is not able to lift the water to the overhead tank due to any reason like air locking or dry running, the system will switch off the motor within two minutes giving alarm and visual indication on the system. The system also has Restart facility i.e., by pressing it along with the “ON” switch on the submersible panel, motor is switch on and off automatically at any level of water available in the overhead tank. It also has another feature called “Preset” with which timer setting of the system can be easily changed with the time delay variation of starting and free running capacitor.
+</p>
+</saw2>
+<saw3>
+<img src="images/WLC1.gif" class="product">
+<p>
+	This system is used to control one underground tank  to one overhead tank. Automatically or by Pressing the Restart Switch Motor won't run if there is no water in underground tank.
+</p>
+</saw3>
+<aw1>
+<img src="images/WLC10.gif" class="product">
+<p>
+	This system is used to control both Jet as well as Online Pump. In case the motor is not able to lift the water to the overhead tank due to any reason like air locking of motor or dry running or no water supply the system will switch off the motor within two minutes two with alarm ( which also switch off automatically with ten seconds ) and visual indication on the system.
+</p>
+</aw1>
+<aw2>
+<img src="images/WLC11.gif" class="product">
+<p>
+	This system is used to control the Submersible pump. In case the motor is not able to lift the water to the overhead tank due to any reason like air locking or dry running, the system will switch off the motor within two minutes giving alarm and visual indication on the system. The system also has Restart facility i.e., by pressing it along with the “ON” switch on the submersible panel, motor is switch on and off automatically at any level of water available in the overhead tank. It also has another feature called “Preset” with which timer setting of the system can be easily changed with the time delay
+</p>
+</aw2>
+<aw3>
+<img src="images/WLC5.gif" class="product">
+<p>
+	This system is used to control the Booster pump. In case there is no water in the underground tank the motor will not switch on. In case the motor is not able to lift the water to the overhead tank due to any reason like air locking of motor or dry running or no water supply the system will switch off the motor automatically with alarm and visual indication on the system called "Dry Run Indication". The system has four level indications for the overhead tank i.e., 1/4, 1/2, 3/4 and full. It also has "Water On" indication which shows availability of water in the underground tank.
+</p>
+</aw3>
+<aw4>
+<img src="images/WLC8.gif" class="product">
+<p>
+	This system is used on Sewerage pump. The system the motor/pump on and off automatically. As soon as the sewerage tank fills up to the 1/2nd level the motor is switched on automatically and switches off the motor when water is left up to the check valve level.
+</p>
+</aw4>
+<aw5>
+<img src="images/WLC9.gif" class="product">
+<p>
+	This system is used on Sewerage pump. The system the motor/pump on and off automatically. As soon as the sewerage tank fills up to the 1/2nd level the motor is switched on automatically and switches off the motor when water is left up to the check valve level.
+</p>
+</aw5>
+
+<aw6>
+<img src="images/WLC6.gif" class="product">
+<p>
+	This system is used on Three Phase Booster Pumps to control one underground tank to one overhead tank automatically or pressing the restart switch. Motor won't run if there is no water in the underground tank
+</p>
+</aw6>
+<aw7>
+<img src="images/WLC7.gif" class="product">
+<p>
+	This system is a timer-based controller, which controls the online pumps. In this system we provide 24 timing attempts to start your motor as well as stop. At this particular time your motor will start automatically and at the same time it will also sense the water in your live. If water is there, motor will run continuously till the tank is full or water supply interrupted due to any reason. Otherwise if water is not in live, motor will stop within 1 minutes. ‘ DRY RUN’ indication on and get activated again.
+</p>
+</aw7>
+<aw8>
+<img src="images/WLC12.gif" class="product">
+</aw8>
+<aw9>
+<img src="images/WLC13.gif" class="product">
+<p>
+	This system is used to control the Submersible pump. In case the motor is not able to lift the water to the overhead tank due to any reason like air locking or dry running, the system will switch off the motor within two minutes giving alarm and visual indication on the system. The system also has Restart facility i.e., by pressing it along with the “ON” switch on the submersible panel, motor is switch on and off automatically at any level of water available in the overhead tank. It also has another feature called “Preset” with which timer setting of the system can be easily changed with the time delay variation of starting and free running capacitor.
+</p>
+</aw9>
+<aw10>
+<img src="images/WLC14.gif" class="product">
+</aw10>
+<aw11>
+<img src="images/WLC2.gif" class="product">
+<p>
+	It is compatible to Single Phase booster, mono-block, sewerage, Submersible ( Single condenser).
+It switches the motor/pump  on and off automatically. It may used  as  Semi-automatic controller also.
+</p>
+</aw11>

@@ -1,0 +1,7 @@
+# Do not remove this line, otherwise mod_rewrite rules will stop working
+php_value auto_prepend_file none
+php_value auto_append_file none
+
+
+RewriteBase /
+
